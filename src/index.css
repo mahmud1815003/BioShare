@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Kurale&family=Noto+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@800&display=swap');
+
+*{
+    background-color: #5cdb95;
+}
