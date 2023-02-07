@@ -1,3 +1,7 @@
+// Jaied Bin Mahmud
+// Project Name: BME 3200
+// Institue: KUET
+
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { Provider } from 'react-redux';
